@@ -1,0 +1,37 @@
+#title{
+  background-color: #ff4c68;
+  color: white;
+
+}
+body{
+  font-family: 'Montserrat';
+}
+.heading{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height:1.5;
+}
+
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2rem;
+}
+.container{
+  padding-top: 3%;
+  padding-right: 15%;
+ padding-left: 15%;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.download-btn{
+  margin: 5% 3% 5% 0;
+}
+.dog-img{
+  width: 60%;
+  transform:  rotate(25deg);
+}
+#features{
+  padding-top: 5%;
+  text-align: center;
+}
